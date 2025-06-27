@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76551612752",
+    "project_id": "familytree-3325e",
+    "storage_bucket": "familytree-3325e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76551612752:android:3813ca527cd7c4888b2455",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5M0MQdFPQJpMn9ZWsy70jBlbyJCDfaKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
